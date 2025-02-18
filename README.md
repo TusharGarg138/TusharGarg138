@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)](https://tushargarg.io)
 <h1 align="center">Hi 👋, I'm Tushar Garg</h1>
 <h3 align="center">A passionate Coder from India</h3>
-(img align="right" alt="Coding" width="400" src="(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")")
+(img align="right" alt="Coding" width="400" src=("https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding&psig=AOvVaw0PkfjI9NEhnSLhLsqzaH5x&ust=1739991796413000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiHrd_0zYsDFQAAAAAdAAAAABAQ")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushargarg138&label=Profile%20views&color=0e75b6&style=flat" alt="tushargarg138" /> </p>
 
