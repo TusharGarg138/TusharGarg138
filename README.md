@@ -1,7 +1,7 @@
-[![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCyberpunk%2Fcomments%2F17orhba%2Fcoding_by_pixel_jeff%2F&psig=AOvVaw2u9xQ1rtvjgW-TW8vZS9T8&ust=1743063716270000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjf_L6op4wDFQAAAAAdAAAAABAQ](https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif))](https://tushargarg.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif))](https://TusharGarg138.io)
 <h1 align="center">Hi 👋, I'm Tushar Garg</h1>
 <h3 align="center">A passionate Coder from India</h3>
-<img align="right" alt="Coding" width="400" src="[[(https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fgptv-code-coding-hacking-jTNG3RF6EwbkpD4LZx&psig=AOvVaw2u9xQ1rtvjgW-TW8vZS9T8&ust=1743063716270000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjf_L6op4wDFQAAAAAdAAAAABAK)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fphp-development&psig=AOvVaw17z9l7l2HL2H_mvHJhWOxU&ust=1743064640559000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKje8fmrp4wDFQAAAAAdAAAAABAE)">
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushargarg138&label=Profile%20views&color=0e75b6&style=flat" alt="tushargarg138" /> </p>
 
